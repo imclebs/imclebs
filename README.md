@@ -1,4 +1,4 @@
-### Saudações! Eu sou o Cleberson Souza
+### Saudações! Eu sou o Cleberson Souza, Analista de T.I. em formação na area de Engenharia de Software.
 
 <!--
 **imclebs/imclebs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
