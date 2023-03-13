@@ -1,5 +1,15 @@
 ### Saudações! Eu sou o Cleberson Souza, Analista de T.I. em formação na area de Engenharia de Software.
 
+### FUNDAMENTOS DE REDES DE COMPUTADORES
+### FUNDAMENTOS DE SISTEMAS DE INFORMAÇÃO
+### ORGANIZAÇÃO DE COMPUTADORES
+### PLANEJAMENTO DE CARREIRA E SUCESSO PROFISSIONAL
+### PROCESSOS DE DESENVOLVIMENTO DE SOFTWARE
+### TECNOLOGIAS WEB
+### MATEMÁTICA COMPUTACIONALB
+### INTRODUÇÃO A PROGRAMAÇÃO
+### INOVAÇÃO TECNOLÓGICA
+### GESTÃO DE SEGURANÇA DA INFORMAÇÃO
 
 <div align="center">
   <a href="https://github.com/imclebs">
