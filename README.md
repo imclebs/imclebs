@@ -1,7 +1,9 @@
 ### Saudações! Eu sou o Cleberson Souza, Analista de T.I. em formação na area de Engenharia de Software.
 
 
-
+<a class="no-underline stayinformed" title="Twitter" data-bi-id="author follow within post" data-bi-area="" data-bi-name="twitter" aria-label="Maddy Montaquila Twitter profile" target="_blank" href="https://twitter.com/maddymontaquila">
+        <i class="fa fa-twitter"></i>
+    </a>
     
   Minhas principais linguagens são:
 <div style="display: inline_block"><br>
