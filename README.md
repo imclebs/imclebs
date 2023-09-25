@@ -34,5 +34,10 @@
 ### INTRODUÇÃO A PROGRAMAÇÃO
 ### INOVAÇÃO TECNOLÓGICA
 ### GESTÃO DE SEGURANÇA DA INFORMAÇÃO
+### SISTEMAS OPERACIONAIS
+### PROGRAMAÇÃO I
+### MODELAGEM DE SISTEMAS	
+### MODELAGEM DE DADOS	
+### CÁLCULO PARA COMPUTAÇÃO	
 
                                                                                                                                           
