@@ -23,21 +23,5 @@
   <a href="https://www.linkedin.com/in/cleberson-souza-2a4895177/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 
-  
-### FUNDAMENTOS DE REDES DE COMPUTADORES
-### FUNDAMENTOS DE SISTEMAS DE INFORMAÇÃO
-### ORGANIZAÇÃO DE COMPUTADORES
-### PLANEJAMENTO DE CARREIRA E SUCESSO PROFISSIONAL
-### PROCESSOS DE DESENVOLVIMENTO DE SOFTWARE
-### TECNOLOGIAS WEB
-### MATEMÁTICA COMPUTACIONAL
-### INTRODUÇÃO A PROGRAMAÇÃO
-### INOVAÇÃO TECNOLÓGICA
-### GESTÃO DE SEGURANÇA DA INFORMAÇÃO
-### SISTEMAS OPERACIONAIS
-### PROGRAMAÇÃO I
-### MODELAGEM DE SISTEMAS	
-### MODELAGEM DE DADOS	
-### CÁLCULO PARA COMPUTAÇÃO	
 
                                                                                                                                           
